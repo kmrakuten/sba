@@ -1,0 +1,1 @@
+setupFilesAfterEnv: ["./reporters/screenshot.js"];
